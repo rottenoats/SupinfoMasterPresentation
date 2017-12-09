@@ -8,7 +8,9 @@ Supervisors: Mr. Thomas Parent and Mr. Stephane Becker
 
 Kevin Faulhaber 217546
 IRCAD\WeBSurg
+![Logo](assets/ircad.png)
 ![Logo](assets/SupInfoLogo.png)
+![Logo](assets/websurg.png)
 
 ---
 
