@@ -1,4 +1,3 @@
-theme: sky
 logo: assets/SupInfoLogo.png
 footnote: "© 2017 Kevin Faulhaber"
 theme-override: assets/css/PITCHME.css
