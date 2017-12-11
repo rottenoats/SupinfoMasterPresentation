@@ -1,5 +1,12 @@
 ## Inspiring Progression by taking risks
+Thesis Presentation 2017
+
+---
+
 Through new technologies, coding standards, and innovative product features
+@fa[handshake]
+
+---
 
 Thesis presentation
 Supervisors: Mr. Thomas Parent and Mr. Stephane Becker
